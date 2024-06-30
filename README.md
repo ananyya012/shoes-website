@@ -1,4 +1,4 @@
-# shoes-website
+
 # Shoe Store Website
 
 Welcome to the Nike Shoe Store Website repository! This project is a fully responsive e-commerce website for an online shoe store. The website is built using HTML, CSS, and JavaScript, and provides a user-friendly interface for browsing and purchasing shoes.
