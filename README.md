@@ -53,7 +53,7 @@ This project is licensed under the MIT License.
 If you have any questions or feedback, please feel free to reach out:
 
 - **Email**: ananyya012@gmail.com
-- **GitHub**: [ananyaa012](https://github.com/ananyaa012/shoes-website/edit/main/README.md
+- **GitHub**: [ananyaa012](https://github.com/ananyaa012/shoes-website/edit/main/README.md)
 
 ---
 
