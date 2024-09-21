@@ -11,7 +11,7 @@ Welcome to the Nike Shoe Store Website repository! This project is a fully respo
 - ✍🏻️**Product Details**: View detailed information about each shoe, including images, descriptions, and reviews.
 - ✍🏻️**Shopping Cart**: Add items to your cart and proceed to checkout.
 - ✍🏻️**User Reviews and Ratings**: Read and leave reviews and ratings for products.
-- 
+
 ## Live Demo
 
 Check out the live demo [here](https://github.com/ananyaa012/shoes-website/edit/main/README.md).
