@@ -14,7 +14,7 @@ Welcome to the Nike Shoe Store Website repository! This project is a fully respo
 
 ## Live Demo
 
-Check out the live demo [here](https://github.com/ananyaa012/shoes-website/edit/main/README.md).
+Check out the live demo [here](https://github.com/ananyya012/shoes-website/edit/main/README.md).
 
 ## Installation
 
@@ -22,7 +22,7 @@ To run this website locally:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/ananyaa012/shoes-website.git
+    git clone https://github.com/ananyya012/shoes-website.git
     ```
 2. **Navigate to the project directory**:
     ```bash
@@ -53,7 +53,7 @@ This project is licensed under the MIT License.
 If you have any questions or feedback, please feel free to reach out:
 
 - **Email**: ananyya012@gmail.com
-- **GitHub**: [ananyaa012](https://github.com/ananyaa012/shoes-website/edit/main/README.md)
+- **GitHub**: [ananyya012](https://github.com/ananyya012/shoes-website/edit/main/README.md)
 
 ---
 
